@@ -193,4 +193,4 @@ kubectl get pods -n default
 ```bash
 kubectl port-forward service/<service_name> 5000:5000
 ```
-This will allow you to access the service on your local machine at http://localhost:5000.
+This will allow you to access the service on your local machine at http://localhost:5000
